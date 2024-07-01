@@ -12,9 +12,13 @@
 
 *Gestor de Tareas*
 + Comandos Utilizados
+  
 -add
--list 
+
+-list
+
 -delete 
+
 -complete 
 
 
