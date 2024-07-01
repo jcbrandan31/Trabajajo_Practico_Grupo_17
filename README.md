@@ -12,6 +12,11 @@
 
 *Gestor de Tareas*
 + Comandos Utilizados
+  -add
+  -list 
+  -delete 
+  -complete 
+
 
 *Gestor de Archivos*
 
