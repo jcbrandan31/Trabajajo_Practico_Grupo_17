@@ -18,10 +18,13 @@
   mv, shutil.move.,rm, shutil.rmtree, os.remove) 
  
 *Cliente Api*
-+ Comandos Utilizados(add, list, delete, complete)
++ Comandos Utilizados(requests.get, requests.post, requests.put, requests.delete.
+click.echo(response.text), headers, requests, tokens, click.option.)
   
 *Herramientas de Backup*
-+ Comandos Utilizados(add, list, delete, complete)
++ Comandos Utilizados(backup, shutil.copytree., restore, shutil.copytree.
+list_backups, os.listdir.)
   
 *Gestion de Configuraciones*
-+ Comandos Utilizados(add, list, delete, complete) 
++ Comandos Utilizados(read, configparser.ConfigParser, write
+configparser.ConfigParser., configparser.ConfigParser.) 
