@@ -11,12 +11,16 @@
 ### Ejemplos de Aplicacion
 
 *Gestor de Tareas*
-+ Comandos Utilizados(add, list, delete, complete) 
++ Comandos Utilizados(add, list, delete, complete)
+   
 *Gestor de Archivos*
-+ Comandos Utilizados(add, list, delete, complete) 
++ Comandos Utilizados(add, list, delete, complete)
+   
 *Cliente Api*
-+ Comandos Utilizados(add, list, delete, complete) 
++ Comandos Utilizados(add, list, delete, complete)
+  
 *Herramientas de Backup*
-+ Comandos Utilizados(add, list, delete, complete) 
++ Comandos Utilizados(add, list, delete, complete)
+  
 *Gestion de Configuraciones*
 + Comandos Utilizados(add, list, delete, complete) 
