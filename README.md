@@ -9,13 +9,13 @@
 
 ### Ejemplos de Aplicacion
 
-+*Gestor de Tareas*
+*Gestor de Tareas*
 
-+*Gestor de Archivos*
+*Gestor de Archivos*
 
-+*Cliente Api*
+*Cliente Api*
 
-+*Herramientas de Backup*
+*Herramientas de Backup*
 
-+*Gestion de Configuraciones*
+*Gestion de Configuraciones*
 
