@@ -3,7 +3,8 @@
 ## Click - Creación de interfaces de línea de comandos.
 
 ### PDF-Trabajo practico
-+ Informe en formato pdf 
++ Informe en formato pdf
++ PDF y PPT/PDF.PNG
 
 ### PPT- Presentacion Power Point
 + Diapositivas del trabajo practico
