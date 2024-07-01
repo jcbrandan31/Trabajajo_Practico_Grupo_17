@@ -2,11 +2,16 @@
 
 ## Click - Creación de interfaces de línea de comandos.
 
-### PDF- Trabajo practico 
+### Trabajo practico
++ Trabajo en formato pdf con 
 
 ### PPT- Presentacion Power Point
 
-+ Ejemplos de Aplicacion
+### Ejemplos de Aplicacion
 
-*Gestor de Tareas*
++*Gestor de Tareas*
++*Gestor de Archivos*
++*Cliente Api*
++*Herramientas de Backup*
++*Gestion de Configuraciones*
 
