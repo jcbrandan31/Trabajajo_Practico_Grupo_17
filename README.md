@@ -11,7 +11,7 @@
 ### Ejemplos de Aplicacion
 
 *Gestor de Tareas*
-+ 
++ Comandos Utilizados
 
 *Gestor de Archivos*
 
