@@ -14,8 +14,9 @@
 + Comandos Utilizados(add, list, delete, complete)
    
 *Gestor de Archivos*
-+ Comandos Utilizados(add, list, delete, complete)
-   
++ Comandos Utilizados(touch, mkdir, os.makedirs, ls., os.listdir, cp, shutil.copy.,
+  mv, shutil.move.,rm, shutil.rmtree, os.remove) 
+ 
 *Cliente Api*
 + Comandos Utilizados(add, list, delete, complete)
   
