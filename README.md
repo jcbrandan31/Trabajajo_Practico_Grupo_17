@@ -2,14 +2,16 @@
 
 ## Click - Creación de interfaces de línea de comandos.
 
-### Trabajo practico
-+ Trabajo en formato pdf con 
+### PDF-Trabajo practico
++ Informe en formato pdf 
 
 ### PPT- Presentacion Power Point
++ Diapositivas del trabajo practico
 
 ### Ejemplos de Aplicacion
 
 *Gestor de Tareas*
++ 
 
 *Gestor de Archivos*
 
