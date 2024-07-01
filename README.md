@@ -10,8 +10,12 @@
 ### Ejemplos de Aplicacion
 
 +*Gestor de Tareas*
+
 +*Gestor de Archivos*
+
 +*Cliente Api*
+
 +*Herramientas de Backup*
+
 +*Gestion de Configuraciones*
 
